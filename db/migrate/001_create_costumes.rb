@@ -18,4 +18,3 @@ class CreateCostumes
       end
     end
 end
-    
